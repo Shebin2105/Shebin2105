@@ -82,14 +82,6 @@ End-to-end pipeline for ingesting, chunking, embedding, and querying PDF documen
 
 `Python` · `LangChain` · `ChromaDB` · `Streamlit` · `HuggingFace`
 
----
-
-### 🧠 Conversational Memory System
-LLM-powered chat with long-term memory — tracks user context across sessions using structured memory buffers and vector-based retrieval.
-
-`LangChain` · `Groq` · `ChromaDB` · `Streamlit`
-
----
 
 ## 📊 GitHub Stats
 
